@@ -12,3 +12,6 @@ The translation of the text gave me a hint about maketrans, so I decided to impl
 
 ## Level 2
 Using OrderedDict to get keys in order they appear.
+
+## Level 3
+Looking for strictly 3 upperCase characters to the left and to the right of 1 lowerCase symbol.
