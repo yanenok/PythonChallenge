@@ -26,3 +26,6 @@ Looks pretty ugly in standard 80x24 terminal window.
 
 ## Level 6
 Pretty much follows the idea of Level 4: looking for a special comment and printing file's comments from info.
+
+## Level 7
+I cut the picture to the width of just 1px where the gray values are and then converted ASCII codes from gray values (and other integers) to characters.
