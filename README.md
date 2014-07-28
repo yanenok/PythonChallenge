@@ -29,3 +29,6 @@ Pretty much follows the idea of Level 4: looking for a special comment and print
 
 ## Level 7
 I cut the picture to the width of just 1px where the gray values are and then converted ASCII codes from gray values (and other integers) to characters.
+
+## Level 8
+Super easy. 
